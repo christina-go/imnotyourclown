@@ -85,7 +85,7 @@ body {
   @media (min-width: 0px) and (orientation:portrait) {
 
     #hero img {
-        max-width: calc(100vw - 10px);
+        max-width: calc(100vw + 20px);
         margin-top: 30px;
         margin-bottom: 5px;
 
