@@ -87,6 +87,8 @@ body {
     #hero img {
         max-width: calc(100vw);
         margin-top: 30px;
+        margin-left: 10px;
+        margin-right: 10px;
         margin-bottom: 5px;
 
     }
@@ -95,7 +97,7 @@ body {
         font-family: "Roboto", sans-serif;
         text-transform: uppercase;
         font-weight: 400;
-        font-size: 22px;
+        font-size: 28px;
         letter-spacing: 1px;
         display: inline-block;
         padding: 11px 36px;
