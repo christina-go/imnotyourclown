@@ -56,6 +56,30 @@ body {
 
       }
 
+      .rsvp-btn {
+        font-family: "Roboto", sans-serif;
+        text-transform: uppercase;
+        font-weight: 400;
+        font-size: 13px;
+        letter-spacing: 1px;
+        display: inline-block;
+        padding: 11px 36px;
+        border-radius: 50px;
+        transition: 0.5s;
+        margin: 10px;
+        margin-bottom: 30px;
+        border: 2px solid #000ffe;
+        background: #fff;
+        color: #000ffe;
+        text-decoration: none;
+      }
+      
+      .rsvp-btn:hover {
+        background: #000ffe;
+        color: #fff;
+        border: 2px solid #fff;
+      }
+
   }
 
   @media (min-width: 0px) and (orientation:portrait) {
@@ -66,6 +90,30 @@ body {
         margin-bottom: 5px;
 
     }
+
+    .rsvp-btn {
+        font-family: "Roboto", sans-serif;
+        text-transform: uppercase;
+        font-weight: 400;
+        font-size: 15px;
+        letter-spacing: 1px;
+        display: inline-block;
+        padding: 11px 36px;
+        border-radius: 50px;
+        transition: 0.5s;
+        margin: 10px;
+        margin-bottom: 30px;
+        border: 2px solid #000ffe;
+        background: #fff;
+        color: #000ffe;
+        text-decoration: none;
+      }
+      
+      .rsvp-btn:hover {
+        background: #000ffe;
+        color: #fff;
+        border: 2px solid #fff;
+      }
     
   }
   
